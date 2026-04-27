@@ -1,7 +1,7 @@
 [project]
 name = "toxic-reviews-detector"
 version = "0.1.0"
-description = "Add your description here"
+description = "The simple NLP exercise"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
